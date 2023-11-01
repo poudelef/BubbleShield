@@ -1,4 +1,4 @@
-import 'package:faf/profilePictureNavation/ProfilePicturePage.dart';
+import 'package:faf/Picture_navigation/ProfilePicturePage.dart';
 import 'package:flutter/material.dart';
 
 class hero extends StatefulWidget {

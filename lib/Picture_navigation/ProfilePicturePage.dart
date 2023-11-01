@@ -11,7 +11,7 @@ class _ProfilePicturePageState extends State<ProfilePicturePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.pink[100],
+      backgroundColor: Color.fromARGB(255, 224, 211, 215),
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(8.0),
