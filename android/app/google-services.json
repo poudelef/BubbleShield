@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177722010370",
+    "project_id": "bubbleshield",
+    "storage_bucket": "bubbleshield.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177722010370:android:35662ceae7beed1175b01b",
+        "android_client_info": {
+          "package_name": "com.example.faf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlvezXCPejJnSIJiLUZCSG9t4DuLGEaEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

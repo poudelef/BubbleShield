@@ -12,6 +12,10 @@ class _ProfilePicturePageState extends State<ProfilePicturePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Color.fromARGB(255, 224, 211, 215),
+      appBar: AppBar(
+        automaticallyImplyLeading: true,
+        backgroundColor: Color.fromARGB(255, 224, 211, 215),
+      ),
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(8.0),

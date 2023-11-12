@@ -84,7 +84,6 @@ class _VoicePageState extends State<Voice> {
               child: Container(
                 padding: EdgeInsets.all(16),
                 child: Text(
-                  // If listening is active show the recognized words
                   _speechToText.isListening
                       ? '$_lastWords'
                       // If listening isn't active but could be tell the user
